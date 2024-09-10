@@ -1,5 +1,5 @@
 {
-  "domain": "smartthings",
+  "domain": "custom_smartthings",
   "name": "Custom SmartThings",
   "after_dependencies": ["cloud"],
   "codeowners": [],
