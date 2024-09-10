@@ -1,5 +1,4 @@
 {
   "name": "Custom Smartthings",
-  "zip_release": true,
-  "filename": "hass-custom-components.zip"
+  "content_in_root": false
 }
