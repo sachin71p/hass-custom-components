@@ -1,7 +1,7 @@
 {
-  "domain": "custom_smartthings",
+  "domain": "smartthings",
   "name": "Custom SmartThings",
-  "version": "v1.0.2",
+  "version": "v1.0.3",
   "after_dependencies": ["cloud"],
   "codeowners": [],
   "config_flow": true,
